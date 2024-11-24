@@ -8,5 +8,13 @@ Repositório destinado à analise exploratória de dados fictícios de venda. O 
 * **data_clean.csv:** Dados limpos e transformados pra análise.
 * **consultas_sql.sql:** Consultas ao dataset `data_clean.csv` realizadas no Postgresql.
 * **analise_exploratoria_vendas_2023.ipynb:** Script principal com análise exploratoria dos dados de venda de 2023. Realiza a leitura dos dados, limpeza, transformações e principais visualizações.
-* **analise_exploratoria_vendas_2023.py:** Mesmo script principal, mas em outro formato.
 * **relatorio_insights:** Relatório com insights e ações necessárias a partir da análise dos dados.
+
+## Pré-requisitos
+* Python >= 3.6
+* Bibliotecas: pandas, numpy, matplotlib, seaborn
+* Google Colab
+  
+## Execução do Google Colab
+1. Faça o upload do notebook `analise_exploratoria_vendas_2023.ipynb` para o Google Colab.
+2. Execute as celulas sequencialmente
